@@ -1,0 +1,8 @@
+*.meta
+/.vs/RuntimeUndoRedo/v15/Server/sqlite3
+/Library
+/Temp
+/UnityPackageManager
+*.csproj
+*.sln
+*.user
