@@ -1,5 +1,5 @@
 *.meta
-/.vs/RuntimeUndoRedo/v15/Server/sqlite3
+/.vs/
 /Library
 /Temp
 /UnityPackageManager
